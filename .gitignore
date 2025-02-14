@@ -1,6 +1,6 @@
 # Ignore everything in the assignments folder
-assignments/**/*
+**/*
 
 # Except .cs and .pdf files
-!assignments/**/*.cs
-!assignments/**/*.pdf
+!**/*.cs
+!**/*.pdf
